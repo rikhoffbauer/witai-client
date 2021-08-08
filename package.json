@@ -1,6 +1,6 @@
 {
     "name": "witai-client",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "description": "A client for [wit.ai](https://wit.ai) apps.",
     "keywords": [],
     "homepage": "https://github.com/rikhoffbauer/witai-client#readme",
